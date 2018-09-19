@@ -1,0 +1,16 @@
+﻿Build started 19.09.2018 13:36:59.
+     1>Project "C:\Lexa\mp2-lab1-set\sln\vc13\gtest\gtest.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Lexa/mp2-lab1-set/gtest/CMakeLists.txt
+         CMake does not need to re-run because C:\Lexa\mp2-lab1-set\sln\vc13\gtest\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Lexa\mp2-lab1-set\include" /I"C:\Lexa\mp2-lab1-set\gtest" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"gtest.dir\Debug\\" /Fd"gtest.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Lexa\mp2-lab1-set\gtest\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Lexa\mp2-lab1-set\sln\vc13\lib\Debug\gtest.lib" /NOLOGO  /machine:X86 "gtest.dir\Debug\gtest-all.obj"
+         gtest.vcxproj -> C:\Lexa\mp2-lab1-set\sln\vc13\lib\Debug\gtest.lib
+     1>Done Building Project "C:\Lexa\mp2-lab1-set\sln\vc13\gtest\gtest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.35

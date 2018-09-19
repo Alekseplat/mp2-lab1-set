@@ -1,0 +1,6 @@
+C:/Lexa/mp2-lab1-set/sln/vc13/test/CMakeFiles/test_set.dir
+C:/Lexa/mp2-lab1-set/sln/vc13/src/CMakeFiles/set.dir
+C:/Lexa/mp2-lab1-set/sln/vc13/gtest/CMakeFiles/gtest.dir
+C:/Lexa/mp2-lab1-set/sln/vc13/CMakeFiles/ALL_BUILD.dir
+C:/Lexa/mp2-lab1-set/sln/vc13/CMakeFiles/ZERO_CHECK.dir
+C:/Lexa/mp2-lab1-set/sln/vc13/samples/CMakeFiles/sample_prime_numbers.dir

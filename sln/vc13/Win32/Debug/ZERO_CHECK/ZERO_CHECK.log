@@ -1,0 +1,14 @@
+﻿Build started 19.09.2018 13:36:56.
+     1>Project "C:\Lexa\mp2-lab1-set\sln\vc13\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Lexa/mp2-lab1-set/sln/vc13/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Lexa/mp2-lab1-set/sln/vc13/src/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Lexa/mp2-lab1-set/sln/vc13/samples/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Lexa/mp2-lab1-set/sln/vc13/gtest/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Lexa/mp2-lab1-set/sln/vc13/test/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Lexa\mp2-lab1-set\sln\vc13\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.21

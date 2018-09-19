@@ -9,6 +9,7 @@
 
 TBitField::TBitField(int len)
 {
+
 }
 
 TBitField::TBitField(const TBitField &bf) // конструктор копирования
@@ -55,7 +56,8 @@ TBitField& TBitField::operator=(const TBitField &bf) // присваивание
 
 int TBitField::operator==(const TBitField &bf) const // сравнение
 {
-  return 0;
+	printf("afd");
+  return 50;
 }
 
 int TBitField::operator!=(const TBitField &bf) const // сравнение
