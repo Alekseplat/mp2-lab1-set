@@ -107,7 +107,10 @@ TSet TSet::operator+(const int Elem) // объединение с элемент
 
 TSet TSet::operator-(const int Elem) // разность с элементом
 {
-	return 0;
+	if (Elem < 0 || Elem > MaxPower) throw - 5;
+	TBitField _check_(BitField);
+	_check_.ClrBit(Elem);
+	return _check_;
 }
 
 TSet TSet::operator*(const TSet &s) // пересечение
@@ -133,6 +136,7 @@ TSet TSet::operator*(const TSet &s) // пересечение
 
 TSet TSet::operator~(void) // дополнение
 {
+
 	TBitField _check_(BitField);
 	_check_ = ~_check_;
 	return _check_;
